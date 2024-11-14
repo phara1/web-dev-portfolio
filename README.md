@@ -1,6 +1,6 @@
 # web-dev-portfolio
 Personal Portfolio
-1. WildPeek Network [Gaming Community Project - Live DEMO - https://wildpeek.net]
+1. WildPeek Network [Gaming Community Project - Live DEMO - https://wildpeek.net | PHP, HTML, CSS, JAVASCRIPT, BOOTSTRAP]
 ![KZCsUXi](https://github.com/user-attachments/assets/d3249153-6b75-469e-8aaa-0224cc0760cc)
 ![vkXYJXy](https://github.com/user-attachments/assets/0d56ccea-2dff-4c8d-9ad6-1c40d07a8306)
 ![aSgpzW0](https://github.com/user-attachments/assets/17479a17-3482-4824-8d52-28cc72980dfb)
