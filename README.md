@@ -16,6 +16,6 @@ Personal Portfolio
 ![CqWWcOk](https://github.com/user-attachments/assets/38949156-fb10-4b66-8f24-5db3a6ff81a7)
 ![IqKtiCc](https://github.com/user-attachments/assets/f1912842-6a58-4bfc-81f9-bd5f94a59794)
 
-3. BIG BROTHER [E-Commerce Website using WordPress]
+3. BIG BROTHER INTERNATIONAL [E-Commerce Website using WordPress]
 ![iArN1rM](https://github.com/user-attachments/assets/feba3708-de9b-45ee-9385-62c8827b5dbe)
 ![pOKwWaK](https://github.com/user-attachments/assets/e63c9c32-81c7-4150-809b-99541637a2f2)
